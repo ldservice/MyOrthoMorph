@@ -4,7 +4,7 @@ Application of Image morphing on orthodontic before and after images
 ## Images
 Pre Treatment            |  Post Treatment
 :-------------------------:|:-------------------------:
-![Pre Treatment](img/ortho_init.jpg =250x)  |  ![Post Treatment](img/ortho_fin.jpg =250x)
+<img src="img/ortho_init.jpg" width="200" height="200">  |  ![Post Treatment](img/ortho_fin.jpg)
 ![Pre Treatment](facemorph/angie_init.jpg =250x)  |  ![Post Treatment](facemorph/angie_fin.jpg =250x)
 
 ## Final Transition Video
