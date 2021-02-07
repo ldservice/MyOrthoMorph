@@ -1,2 +1,2 @@
 # MaskMorph
-Fun morphing project on animated Chinese Peking masks
+Application of Image morphing on orthodontic before and after images
