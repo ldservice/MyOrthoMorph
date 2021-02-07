@@ -7,6 +7,7 @@ Pre Treatment            |  Post Treatment
 ![Pre Treatment](img/ortho_init.jpg "Pre Treatment")  |  ![Post Treatment](img/ortho_fin.jpg "Post Treatment")
 
 ## Final Transition Video
+The thumbnail provides a quick, low-resolution sample video of how the images will morph. This allows for checking to make sure major errors will not occur and also present prospective patients with a view of how their teeth will look in the final stage.
 ![Transition](video/morph.gif "Transition")
 
 
