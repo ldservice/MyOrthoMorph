@@ -1,0 +1,35 @@
+{
+  "steps": {
+    "grayworld": false,
+    "lnorm": false,
+    "gamma": true,
+    "pstretch": true,
+    "clahe": false,
+    "hmatchGroup": true,
+    "colortr": false
+  },
+  "vals": {
+    "target_mean": 128,
+    "target_std": 40,
+    "clahe_clip": 2.0,
+    "clahe_tile": 8,
+    "use_roi": false,
+    "roi_frac": 0.7
+  },
+  "ref": {
+    "mode": "max L-mean"
+  },
+  "input_dir": "C:\\Users\\Admin\\OrthoMorph\\img",
+  "output": "C:\\Users\\Admin\\OrthoMorph\\img",
+  "inputs": [
+    "C:\\Users\\Admin\\OrthoMorph\\img\\00_proc.JPG",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\01_proc.jpg",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\02_proc.jpg",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\03_proc.jpg",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\04_proc.jpg",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\05_proc.jpg",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\06_proc.jpg",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\07_proc.jpg",
+    "C:\\Users\\Admin\\OrthoMorph\\img\\09_proc.jpg"
+  ]
+}
